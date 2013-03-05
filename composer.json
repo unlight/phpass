@@ -1,12 +1,12 @@
 {
-    "name": "hautelook/phpass",
+    "name": "unlight/phpass",
     "type": "library",
-    "version": "0.3.0",
-    "time" : "2012-08-31",
+    "version": "0.3.1",
+    "time" : "05.03.2013 14:21:39",
     "license" : "Public Domain",
     "description": "Portable PHP password hashing framework",
     "keywords": ["Blowfish", "crypt", "password", "security"],
-    "homepage": "http://github.com/hautelook/phpass/",
+    "homepage": "http://github.com/unlight/phpass/",
     "authors": [
         {
             "name" : "Solar Designer",
